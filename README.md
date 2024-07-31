@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soundharyaa-shri-s-15b430299/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Soundharyaa Shri" height="30" width="60" /></a>
-<a href="https://www.codechef.com/users/shrisoundharya" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23D35C6A.svg?logo=codechef&logoColor=white" alt="shrisoundharya" height="30" width="60" /></a>
-<a href="https://leetcode.com/u/shrisoundharyaa/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="shrisoundharyaa" height="30" width="60" /></a>
+<a href="https://linkedin.com/in/soundharyaa-shri-s-15b430299/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Soundharyaa Shri" height="20" width="60" /></a>
+<a href="https://www.codechef.com/users/shrisoundharya" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23D35C6A.svg?logo=codechef&logoColor=white" alt="shrisoundharya" height="20" width="60" /></a>
+<a href="https://leetcode.com/u/shrisoundharyaa/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="shrisoundharyaa" height="20" width="60" /></a>
 </p>
 
 # 💻 Tech Stack:
