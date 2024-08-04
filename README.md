@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soundharyaa Shri</h1>
-<h3 align="center">💡📚 A passionate web developer, currently exploring the world of React, Node.js, and Express.js. I'm always eager to learn new technologies and push my coding skills to the next level. 🚀 💻 As a motivated student, I'm diving into the Java framework and aiming to build scalable, efficient web applications. I'm excited to collaborate, take on challenges, and grow with the developer community. 🌐 Focused on hands-on projects, I strive to turn creative ideas into dynamic web experiences. <br>Let's connect and create something extraordinary together! 🌟</h3>
+<h3 align="center"> A passionate web developer, currently exploring the world of React, Node.js, and Express.js. I'm always eager to learn new technologies and push my coding skills to the next level. As a motivated student, I'm diving into the Java framework and aiming to build scalable, efficient web applications. I'm excited to collaborate, take on challenges, and grow with the developer community. Focused on hands-on projects, I strive to turn creative ideas into dynamic web experiences. <br>Let's connect and create something extraordinary together! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrisoundharyaa&label=Profile%20views&color=0e75b6&style=flat" alt="shrisoundharyaa" /> </p>
 
